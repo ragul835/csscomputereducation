@@ -9,7 +9,7 @@ export const site = {
     "15/2A Mathalangulam Street, Near Periyar Statue Bus Stop, Tiruvannamalai - 606 601",
   area: "Tiruvannamalai",
   office: "04175-226593",
-  phone: "+91 94421 42410",
+  phone: "+91 9566446593",
   cell: "+91 95664 46593",
   whatsapp: "919566446593",
   email: "csseducationtvm@gmail.com",
